@@ -1,0 +1,3 @@
+base:
+  '*':
+    - secure_nginx
